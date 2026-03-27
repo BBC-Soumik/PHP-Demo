@@ -1,4 +1,4 @@
 <?php
 // index.php
-echo "Hello, Welcome to my PHP Application!";
+echo "Hello, Welcome to PHP Application!";
 ?>
